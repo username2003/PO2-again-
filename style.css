@@ -74,6 +74,7 @@ header{
 }
 div.transbox{
         margin: 60px;
+        margin-right: 40px
         background-color: #ffffff;
         border: 1px solid black;
         opacity: 0.9;
