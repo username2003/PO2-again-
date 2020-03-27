@@ -42,9 +42,6 @@ input[type=submit]:hover {
   clear: both;
 }
 
-@media screen and (max-width: 600px) {
-  .column, input[type=submit] {
-    width: 100%;
-    margin-top: 0;
-  }
+h2{
+  font-size: 2em
 }
